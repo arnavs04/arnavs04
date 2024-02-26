@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [AgroHub](https://github.com/arnavs04/AgroHub)
 
-- 🌱 I’m currently learning **PyTorch, Neural Network Architectures, NLP**
+- 🌱 I’m currently learning **Deep Learning with PyTorch**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
