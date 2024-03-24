@@ -1,6 +1,6 @@
 [![MasterHead](https://nielseniq.com/wp-content/uploads/sites/4/2021/02/data-science-icon-animation-banner-clockwise-4.gif)](https://github.com/arnavs04)
 <h1 align="center">Hi 👋, I'm Arnav Samal</h1>
-<h3 align="center">A sophomore in National Institute of Technology, Rourkela majoring in Computer Science & Engineering, B.Tech Computer Science & Engineering</h3>
+<h3 align="center">A sophomore in National Institute of Technology, Rourkela majoring in Computer Science & Engineering, B.Tech</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arnavs04&label=Profile%20views&color=0e75b6&style=flat" alt="arnavs04" /> </p>
 
