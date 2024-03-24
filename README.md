@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arnavs04" alt="arnavs04" /></a> </p>
 
-- 🔭 I’m currently working on [AgroHub](https://github.com/arnavs04/AgroHub)
+- 🔭 I’m currently working on Condition Monitoring of Mental Health using Multi-modal Signal Processing.
 
 - 🌱 I’m currently studying **Deep Learning with PyTorch**
 
