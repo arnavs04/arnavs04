@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Condition Monitoring of Mental Health using Multi-modal Signal Processing**.
 
-- 🌱 I’m currently studying **Deep Learning with PyTorch**
+- 🌱 I’m currently studying **Deep Learning** with a focus on **Mathematics**.
 
 - 📫 How to reach me **samalarnav@gmail.com**
 
