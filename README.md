@@ -3,9 +3,9 @@
 
 [![](https://visitcount.itsvg.in/api?id=arnavs04&icon=5&color=12)](https://visitcount.itsvg.in)
 
-- 🔭 I’m currently working on **Condition Monitoring of Mental Health using Multi-modal Signal Processing**.
+- 🔭 I’m currently working on **Explainability of Vision Transformers**.
 
-- 🌱 I’m currently studying **NLP & Deep Learning** with a focus on **Mathematics**.
+- 🌱 I’m currently studying **Computer Vision** & **Deep Learning** with a focus on **Mathematics**.
 
 - 📫 How to reach me **samalarnav@gmail.com**
 
