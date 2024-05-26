@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Explainability of Vision Transformers**.
 
-- 🌱 I’m currently studying **Computer Vision** & **Deep Learning** with a focus on **Mathematics**.
+- 🌱 I’m currently studying **Deep Learning** with a focus on **Mathematics**.
 
 - 📫 How to reach me **samalarnav@gmail.com**
 
