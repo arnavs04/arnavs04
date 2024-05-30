@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arnav Samal</h1>
-<h3 align="center">A sophomore in National Institute of Technology, Rourkela majoring in Computer Science & Engineering, B.Tech</h3>
+<h3 align="center">A Pre-Final Year Student in National Institute of Technology, Rourkela majoring in Computer Science & Engineering, B.Tech</h3>
 
 [![](https://visitcount.itsvg.in/api?id=arnavs04&icon=5&color=12)](https://visitcount.itsvg.in)
 
