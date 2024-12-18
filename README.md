@@ -1,2 +1,5 @@
-Hi! I'm a computer science undergraduate at NIT Rourkela, currently studying theoretical ml and multimodal deep learning.  <br>
-**Connect with me!** <a href="https://linkedin.com/in/arnavsamal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arnavsamal" height="12" width="16" /></a> <a href="https://kaggle.com/arnavs19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="arnavs19" height="15" width="20" /></a> <a href="https://medium.com/@arnavsamal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@arnavsamal" height="15" width="20" /></a> </p>
+<p>
+  <pre align="center">
+Hi! 👋 I'm a computer science undergraduate at NIT Rourkela, currently studying machine learning and multimodal deep learning.
+<a href="https://arnavsamal.github.io">Homepage</a> / <a href="https://www.linkedin.com/in/arnavsamal/">LinkedIn</a> / <a href="mailto:samalarnav@gmail.com">Email</a> </pre>
+</p>
